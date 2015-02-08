@@ -9,6 +9,8 @@ Atualmente trabalho de bermudas na [CI&T](http://www.ciandt.com/) que é, litera
 
 Já tive cinco empresas diferentes com maior e menor grau de sucesso. A primeira foi um provedor de acesso a Internet, no tempo em que para se conectar você precisava ligar com um modem para um número especial e sua linha telefônica ficava ocupada. A última empreitada é impossível de se dizer pois estou sempre inventando alguma coisa nova.
 
+Comecei este blog em Fevereiro de 2015 como um exercício de reflexão pessoal e disciplina. Vamos ver onde estarei daqui a um ano.
+
 ## Fun Facts
 
 Algumas coisas divertidas sobre mim:
@@ -17,6 +19,6 @@ Algumas coisas divertidas sobre mim:
 * As vezes falo frases pela metade. Quer dizer, eu falo a frase completa mas aparentemente há perda de pacotes entre meu cérebro e minha boca (congestão na rede?) 
 * Prestei o vestibular da [Unicamp](http://www.unicamp.br) umas 15 ou 16 vezes;
 
-Alguma pergunta? Sinta-se a vontade em me contar pelo [Twitter](https://twitter.com/costa_2_0).
+Alguma pergunta? Sinta-se a vontade em perguntar pelo [Twitter](https://twitter.com/costa_2_0).
 
 Thanks for reading!
