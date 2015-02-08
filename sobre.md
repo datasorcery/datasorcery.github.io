@@ -3,28 +3,20 @@ layout: page
 title: Sobre
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Eu sou o Fábio Costa, e é um prazer conhecer você. O primeiro computador que utilizei era um TK85, que meu pai ganhou de natal por ter se comportado bem o ano inteiro. Depois disso tive um TK2000, MSX, IBM Aptiva, ou seja, sou um ser <strike>jurássico</strike> precoce quando se refere a computadores.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Atualmente trabalho de bermudas na [CI&T](http://www.ciandt.com/) que é, literalmente, um [Great Place to Work](http://www.greatplacetowork.com.br/melhores-empresas/gptw-ti-a-telecom/907-2014), ajudando empresas a se transformarem em **Empresas Digitais** - se você não sabe o que é isso, oh-oh, me ligue **urgente**...
 
-There are currently two themes built on Poole:
+Já tive cinco empresas diferentes com maior e menor grau de sucesso. A primeira foi um provedor de acesso a Internet, no tempo em que para se conectar você precisava ligar com um modem para um número especial e sua linha telefônica ficava ocupada. A última empreitada é impossível de se dizer pois estou sempre inventando alguma coisa nova.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Fun Facts
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Algumas coisas divertidas sobre mim:
 
-## Setup
+* Nasci em uma Quinta-Feira Santa, que naquele tempo era feriado. Ou seja, meu pai basicamente só teve a Segunda-Feira para correr atrás de cartório, etc... 
+* As vezes falo frases pela metade. Quer dizer, eu falo a frase completa mas aparentemente há perda de pacotes entre meu cérebro e minha boca (congestão na rede?) 
+* Prestei o vestibular da [Unicamp](http://www.unicamp.br) umas 15 ou 16 vezes;
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Alguma pergunta? Sinta-se a vontade em me contar pelo [Twitter](https://twitter.com/costa_2_0).
 
 Thanks for reading!
