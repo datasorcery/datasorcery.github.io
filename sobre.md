@@ -9,7 +9,7 @@ Atualmente trabalho de bermudas na [CI&T](http://www.ciandt.com/) que é, litera
 
 Já tive cinco empresas diferentes com maior e menor grau de sucesso. A primeira foi um provedor de acesso a Internet, no tempo em que para se conectar você precisava ligar com um modem para um número especial e sua linha telefônica ficava ocupada. A última empreitada é impossível de se dizer pois estou sempre inventando alguma coisa nova.
 
-Comecei este blog em Fevereiro de 2015 como um exercício de reflexão pessoal e disciplina. Vamos ver onde estarei daqui a um ano.
+Comecei este blog em Fevereiro de 2016 como um exercício de reflexão pessoal e disciplina. Vamos ver onde estarei daqui a um ano.
 
 ## Fun Facts
 

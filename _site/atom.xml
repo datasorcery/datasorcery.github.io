@@ -4,7 +4,7 @@
  <title>DataSorcery</title>
  <link href="http://blog.datasorcery.io/atom.xml" rel="self"/>
  <link href="http://blog.datasorcery.io/"/>
- <updated>2015-02-25T23:33:07-03:00</updated>
+ <updated>2016-02-26T21:44:09-03:00</updated>
  <id>http://blog.datasorcery.io</id>
  <author>
    <name>Fábio Franco Costa</name>
@@ -13,105 +13,21 @@
 
  
  <entry>
-   <title>Jazz Starter Kit</title>
-   <link href="http://blog.datasorcery.io//2015/02/25/jazz-starter-kit/"/>
-   <updated>2015-02-25T00:00:00-03:00</updated>
-   <id>http://blog.datasorcery.io/2015/02/25/jazz-starter-kit</id>
-   <content type="html">&lt;p&gt;Discutindo música com um grande amigo a um tempo atrás me senti provocado a justificar porque alguém deve ouvir Jazz. Alguém poderia argumentar que se deve ouvir música clássica e outros tantos defenderiam que se deve ouvir A, B ou C… &lt;/p&gt;
-
-&lt;p&gt;Obviamente, não dá pra demonstrar matematicamente porque alguém deveria ouvir este ou aquele gênero. Mas tenho fortes razões empíricas para acreditar que é fundamental ouvir Jazz se você faz parte de pelo menos um de dois grupos: &lt;strong&gt;músicos&lt;/strong&gt; ou &lt;strong&gt;ouvinte não casual&lt;/strong&gt;. &lt;/p&gt;
-
-&lt;p&gt;Entendo por ouvinte &lt;strong&gt;casual&lt;/strong&gt; aquela pessoa que liga música para malhar, cozinhar, dirigir e pouco está ligando de verdade para o que está tocando. Ou então, aquela pessoa que se preocupa com música apenas em eventos como uma festa ou churrasco. Não, para estes momentos há pouca utilidade real em se ouvir Jazz. A menos, é claro, que você já seja um aficionado e ouça jazz nestes momentos incomuns. Aqui em casa fazemos isso muitas vezes, mas confesso que a trilha sonora do almoço de hoje foi Madonna. Enfim…&lt;/p&gt;
-
-&lt;p&gt;Se você é músico é muito útil ouvir Jazz, especialmente nos anos iniciais de sua formação como tal. Meu pai costumava me dizer que para ser músico você precisa ouvir muita música, talvez tanto quanto você pratica. Parece um pouco contra intuitivo, mas sugiro dividir o tempo dedicado ao estudo de música em 50% de prática e 50% de audição. Obviamente, não é 50% de audição enquanto dirige no trânsito. Este tempo deve ser dedicado a audição atenta onde seu foco deve estar em entender como a música está progredindo. Mas audição é tópico para um outro post… O foco aqui é o Jazz!&lt;/p&gt;
-
-&lt;p&gt;Para o estudo, Jazz possui um repertório rico de experiências harmônicas, que se compreendido e incorporado a seu repertório pessoal, garantirá uma versatilidade enorme para que você consiga executar qualquer estilo musical. Seja seu estilo samba enredo, rock progressivo ou bossa nova, com esta prática você saberá o que fazer. Junte a audição com um pouco de estudo onde você tenta executar as harmonias e melodias no seu instrumento de escolha e você se tornará um excelente músico.&lt;/p&gt;
-
-&lt;p&gt;Agora, se você é um &lt;strong&gt;ouvinte não casual&lt;/strong&gt;, existem diversos benefícios para você também. O primeiro é a grande variedade de sub gêneros dentro do Jazz. Existem as big bands, os trios, o Jazz latino, os contemporâneos experimentais, instrumentais, cantados, piano solo… Ou seja, tem Jazz para cada momento e clima da sua vida.&lt;/p&gt;
-
-&lt;p&gt;Outro razão é a qualidade técnica dos músicos. O Jazz reúne os melhores músicos de praticamente todos os instrumentos possíveis. Pensou em guitarra, &lt;a href=&quot;http://youtu.be/ergEUxKOkMA?t=34s&quot;&gt;George Benson&lt;/a&gt;. Pensou em bateria, &lt;a href=&quot;http://youtu.be/22XbdIIhhXw&quot;&gt;Buddy Rich&lt;/a&gt;. Ou quem sabe piano, &lt;a href=&quot;http://youtu.be/NSudlBFrmzI&quot;&gt;Oscar Peterson&lt;/a&gt;… Enfim, garantia de boa música.&lt;/p&gt;
-
-&lt;p&gt;Mas se você ainda não conhece nada de Jazz e não sabe por onde começar, não tem problema! Publico abaixo uma lista, certamente não extensiva, mas que vai te dar uma &lt;em&gt;“big picture”&lt;/em&gt; do que você pode encontrar neste universo tão rico. Sem delongas: &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://youtu.be/dPd3FJPGDJU&quot;&gt;Ella Fitzgerald - Night And Day&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://youtu.be/OZ5KYc_s4bE&quot;&gt;John Pizzarelli - I Got Rhythm&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://youtu.be/OQmOFcy_HkM&quot;&gt;Rubén González - La Engañadora&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://youtu.be/-BIlJRa-1pw&quot;&gt;Bill Evans - The Peacocks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://youtu.be/QIPNkKEU-u8&quot;&gt;Nikki Yanofsky - I Got Rhythm&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://youtu.be/zqNTltOGh5c&quot;&gt;Miles Davis - So What&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://youtu.be/9ie3CQyHaIQ&quot;&gt;Thelonious Monk - Criss-Cross &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://youtu.be/LYfF9VKMp4w&quot;&gt;Tony Bennett, Lady Gaga - It Don’t Mean A Thing (If It Ain’t Got That Swing)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://youtu.be/IM40rzqKmZs&quot;&gt;Chick Corea - Crystal Silence &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://youtu.be/UpBR9h0z0Ks&quot;&gt;Solar Trio - Passa por Mim&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Os TOP 10 Álbuns da Minha Vida</title>
-   <link href="http://blog.datasorcery.io//2015/02/13/top-10-albuns/"/>
-   <updated>2015-02-13T00:00:00-02:00</updated>
-   <id>http://blog.datasorcery.io/2015/02/13/top-10-albuns</id>
-   <content type="html">&lt;p&gt;Neste post apresento a lista dos álbuns que considero as maiores obras-primas da música. Os critérios utilizados não são completamente técnicos/objetivos. Esta é uma lista orgânica, pois não só a arte é viva: meus gostos também são. Mas os atributos giram em torno dos seguintes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Áudio/Gravação&lt;/strong&gt;: A qualidade e bom gosto empregado no registro do programa musical, bem como o equilíbrio, clareza e sensibilidade na mixagem/masterização são os principais aspectos que considero aqui. Tendo a gostar mais de gravações que utilizam pesadamente instrumentos acústicos, com um certo apelo minimalista. Ou seja há um e &lt;strong&gt;somente&lt;/strong&gt; um piano ou uma e &lt;strong&gt;somente&lt;/strong&gt; uma guitarra na gravação. Em resumo, formações com poucos músicos, apenas o essencial. Como efeitos exagerados costumam pesar contra este critério, a técnica e talento individual de cada músico conta muito para uma boa avaliação neste critério.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Arranjos&lt;/strong&gt;: Música é um esporte coletivo, onde a participação individual é fundamental para o sucesso do grupo. E o grande técnico do time é o arranjador que escolhe quem fará parte da escalação, decide como cada um fará sua atuação, enfim! Costumo ouvir criticamente cada álbum, prestando atenção aos detalhes como a escolha dos acordes da harmonia, as linhas melódicas dos instrumentos, a dinâmica individual e coletiva, os detalhes como o timbre escolhido para os sopros, guitarra, bumbos…&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Seleção Musical&lt;/strong&gt;: Neste critério, considero as músicas que foram escolhidas para o álbum. Valorizo a diversidade de estilos, mas, em especial, como as faixas funcionam entre si. As vezes são um extrato representativo de um período/movimento. Noutras valorizam as qualidades musicais de um artistas. É um deleite quando o álbum conta uma história com começo, meio e fim. De forma geral, a chave para este critério é a consistência.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sem mais delongas, segue minha lista: &lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;The Other Side of Abbey Road (1969) - George Benson&lt;/li&gt;
-  &lt;li&gt;Perdido de Amor (1995) - Emílio Santiago&lt;/li&gt;
-  &lt;li&gt;Songs of Brazil (1992) - Pery Ribeiro&lt;/li&gt;
-  &lt;li&gt;Valsa Brasileira (2006) - Zizi Possi&lt;/li&gt;
-  &lt;li&gt;Sgt. Pepper`s Loney Hearts Club Band (1967) - The Beatles&lt;/li&gt;
-  &lt;li&gt;The Chemichal Wedding (1998) - Bruce Dickinson&lt;/li&gt;
-  &lt;li&gt;Fina Estampa (1994) - Caetano Veloso&lt;/li&gt;
-  &lt;li&gt;3 (1970) - Blood, Sweat &amp;amp; Tears&lt;/li&gt;
-  &lt;li&gt;Christmas Portrait (1978) - Carpenters&lt;/li&gt;
-  &lt;li&gt;Introducing… Rubén González (1997)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Bonus Track:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio News Collection Volume 10, Salsa (1995) - Orquestra Heartbreakers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Este é um álbum bem obscuro e com uma história curiosa pra mim. Ele foi lançado como encarte na revista &lt;em&gt;“Audio News”&lt;/em&gt;. Ouvi muito, até quase &lt;strong&gt;furar&lt;/strong&gt; o dito! Aí ele desapareceu da minha casa. O estranho é que foi apenas o CD que sumiu. Procurei por muitos anos, em sebos e Internet até que finalmente consegui recomprá-lo por caríssimos &lt;strong&gt;R$ 5,00&lt;/strong&gt; no Mercado Livre. Assim, do nada! Um dia entrei e lá estava ele me esperando! O reencontro durou algumas semanas no &lt;em&gt;“repeat”&lt;/em&gt; do meu computador…&lt;/p&gt;
-
-&lt;p&gt;Musica é uma coisa muito boa e muito particular. Mas se você tiver oportunidade, embarque em algum destes álbuns. Você vai se surpreender…&lt;/p&gt;
-
-&lt;p&gt;Ah! E não se esqueça de me mandar a sua lista dos Top 10!&lt;/p&gt;
-
-&lt;p&gt;C YA!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Introduções</title>
-   <link href="http://blog.datasorcery.io//2015/02/07/intro/"/>
-   <updated>2015-02-07T00:00:00-02:00</updated>
-   <id>http://blog.datasorcery.io/2015/02/07/intro</id>
+   <link href="http://blog.datasorcery.io//2016/02/26/intro/"/>
+   <updated>2016-02-26T00:00:00-03:00</updated>
+   <id>http://blog.datasorcery.io/2016/02/26/intro</id>
    <content type="html">&lt;p&gt;Oi, meu nome é Fábio!&lt;/p&gt;
 
-&lt;p&gt;É muito esquisito escrever o primeiro post de um blog. Acho que em minhas tentativas anteriores não consegui pois faltou coragem para escrever o primeiro post. O que se há de falar em um primeiro post? Sobre você? Sobre o que se vai escrever? Sem delongas, escrever sobre algo que esteja no peito? Bem, não sei! Mas, se ao ler este post você sentir um profundo sentimento de frustração, raiva ou perplexidade com relação ao que se deve escrever em um primeiro post, por favor, procure agora mesmo seu terapeuta. Pouco posso fazer a respeito de seus sentimentos. Eu já falei sobre disso com o meu… :-)&lt;/p&gt;
+&lt;p&gt;É muito esquisito escrever o primeiro post de um blog. Acho que em minhas tentativas anteriores não consegui pois faltou coragem para escrever o primeiro post. O que se há de falar em um primeiro post? Sobre você? Sobre o que se vai escrever? Ou, sem delongas, escrever sobre algo que esteja no peito? Bem, não sei! Mas, se ao ler este post você sentir um profundo sentimento de frustração, raiva ou perplexidade com relação ao que se deve escrever em um primeiro post, por favor, procure agora mesmo seu terapeuta. Pouco posso fazer a respeito de seus sentimentos. Eu já falei sobre isso com o meu… :-)&lt;/p&gt;
 
-&lt;p&gt;Trabalho com computadores e computadores são minha paixão. Não é exclusiva e nem a maior delas pois tenho muitas outras paixões. A julgar pela quantia, tenho certeza que não há no mundo alguém que se apaixone mais que eu… Mas essas máquinas são especiais pois permeiam praticamente todas as dimensões da minha vida. Quando toco piano, quando vou para a cozinha ou mesmo quando estava em busca da &lt;em&gt;Soulmate&lt;/em&gt; (agora já encontrei…), computadores sempre estão presentes, por vezes como meio, as vezes como protagonistas, mas sempre ali, companheiros de aventuras.&lt;/p&gt;
+&lt;p&gt;Trabalho com computadores e computadores são minha paixão. Não é exclusiva e nem a maior delas pois tenho muitas outras paixões. A julgar pela quantia, tenho certeza que não há no mundo alguém que se apaixone mais que eu… Mas essas máquinas são especiais pois permeiam praticamente todas as dimensões da minha vida. Quando toco piano, quando vou para a cozinha ou mesmo quando estava em busca da &lt;em&gt;Soulmate&lt;/em&gt; (que agora já encontrei com a ajuda delas e de um cisne negro - mais sobre isso no futuro…). Computadores sempre estão presentes, por vezes como meio, as vezes como protagonistas, mas sempre ali, companheiros de aventuras.&lt;/p&gt;
 
-&lt;p&gt;E computadores não existiriam não fosse a matemática e a física. Sem elas não haveriam os transistors, que são a matéria prima com a qual construímos processadores e uma miríade de outros componentes necessários. E sem a matemática, não saberíamos como formalizar nosso pensamento em algorítmos úteis com os quais construímos os programas. Por conta disto, estes são os assuntos com que gosto de me preocupar, as vezes para aprofundar meu entendimento, noutras para estudar suas aplicações e consequências.&lt;/p&gt;
+&lt;p&gt;E computadores não existiriam não fosse a matemática, a física e a filosofia. Sem elas não haveriam os transistores, que são a matéria prima com a qual construímos processadores (por hora?!) e uma miríade de outros componentes necessários. E sem a matemática, não saberíamos como formalizar nosso pensamento em algorítmos úteis com os quais construímos sistemas de lançamento de satélite e os sites de relacionamento. E a Filosofia… Ah!! A Fisolofia… Na fronteira do conhecimento, como distiguir as três? Por conta disto, estes são os assuntos com que gosto de me preocupar, as vezes para aprofundar meu entendimento, noutras para estudar suas aplicações e consequências.&lt;/p&gt;
 
-&lt;p&gt;Neste blog pretendo falar de vários assuntos que acho interessante. Certamente, computação, física e matemática. Mas também gosto muito de cozinhar, o que só faço seguindo rigorosamente as receitas. Apesar de bem devagar últimamente, sou músico. Arranho um pouco no piano e no baixo. Por sinal, música foi minha primeira experiência profissional. Tenho também um interesse grande por eletrônica e outro não tão grande por mecânica de carros.&lt;/p&gt;
+&lt;p&gt;Neste blog pretendo falar de vários assuntos que acho interessante. Certamente, computação, física, matemática e filosofia. Também arte e comida, pois sem elas, que gosto teria a vida? &lt;/p&gt;
+
+&lt;p&gt;Mas a vida a gente vive no mundo real. Portanto antes de mais nada, aqui registro minhas experiências. Gosto muito de cozinhar, que faço somente seguindo rigorosamente as receitas. Sou um músico amador que voltou a estudar piano depois de quase 20 anos, (incrivelmente divertido!). Por sinal, música foi minha primeira experiência profissional. Tenho também um interesse grande por eletrônica e outro não tão grande por mecânica de carros. Em meu dia-a-dia, trabalho com desenvolvimento de software e atualmente estou tentando me tornar um bom Data Scientist. Enfim, muitas paixões…&lt;/p&gt;
 
 &lt;p&gt;Mas já estou divagando…&lt;/p&gt;
 
@@ -120,6 +36,7 @@
 &lt;p&gt;C Ya!&lt;/p&gt;
 
 &lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;‘No man was ever wise by chance’&lt;/em&gt; - Lucius Annaeus Seneca&lt;/p&gt;
 </content>
  </entry>
  
