@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jazz Starter Kit
+published: true
 categories: musica, autoria
 tags, playlist, jazz
 ---
