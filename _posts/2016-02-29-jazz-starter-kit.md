@@ -5,6 +5,7 @@ published: true
 categories: musica, autoria
 tags, playlist, jazz
 ---
+
 Discutindo música com um grande amigo a um tempo atrás me senti provocado a justificar porque alguém deve ouvir Jazz. Alguém poderia argumentar que se deve ouvir música clássica e outros tantos defenderiam que se deve ouvir A, B ou C... 
 
 Obviamente, não dá pra demonstrar matematicamente porque alguém deveria ouvir este ou aquele gênero. Mas tenho fortes razões empíricas para acreditar que é fundamental ouvir Jazz se você faz parte de pelo menos um de dois grupos: **músicos** ou **ouvinte não casual**. 
