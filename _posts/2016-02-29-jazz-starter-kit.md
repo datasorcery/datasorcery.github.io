@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Jazz Starter Kit
-published: true
 categories: musica, autoria
-tags, playlist, jazz
+tags: playlist, jazz
 ---
 
 Discutindo música com um grande amigo a um tempo atrás me senti provocado a justificar porque alguém deve ouvir Jazz. Alguém poderia argumentar que se deve ouvir música clássica e outros tantos defenderiam que se deve ouvir A, B ou C... 
