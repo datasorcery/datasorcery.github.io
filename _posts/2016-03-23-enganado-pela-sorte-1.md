@@ -4,13 +4,13 @@ title: Enganado pela Sorte (1/3)
 categories: autoria, ciência
 tags: estatística, método científico, analytics 
 ---
-Ah, a razão... Essa dádiva que todo ser humano tem mas que as vezes nos falha nos momentos em que mais precisamos...
+Ah, a razão... Essa dádiva que todo ser humano tem mas que às vezes nos falha nos momentos em que mais precisamos...
 
 Nos últimos três ou quatro anos tenho lido bastante a respeito de como tomamos decisões. O tema não surgiu na minha vida a partir de alguma reflexão metafísica ou existencial. Foi uma consequência inesperada de leituras que inicialmente procuravam explorar o meu entendimento sobre **o tempo**.  
 
 ## Viagem no tempo
 
-Os paradoxos relacionados a viagens pelo tempo são campeões nas listas de temas recorrentes em revistas de curiosidades (pseudo) científicas. Eles surgem quando começamos a explorar as implicações de algumas teorias físicas. No meu caso as vezes me pego pensando em questões como:  
+Os paradoxos relacionados a viagens pelo tempo são campeões nas listas de temas recorrentes em revistas de curiosidades (pseudo) científicas. Eles surgem quando começamos a explorar as implicações de algumas teorias físicas. No meu caso às vezes me pego pensando em questões como:  
 
  * Seria possível identificar uma distorção na realidade provocada por um viajante no tempo? Como? 
  * Será que alguém já fez uma viagem e a gente simplesmente não tem como saber?
